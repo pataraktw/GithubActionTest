@@ -1,0 +1,19 @@
+{
+  "name": "githubactiontest",
+  "version": "1.0.0",
+  "description": "test github action",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/pataraktw/GithubActionTest.git"
+  },
+  "author": "patara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pataraktw/GithubActionTest/issues"
+  },
+  "homepage": "https://github.com/pataraktw/GithubActionTest#readme"
+}
